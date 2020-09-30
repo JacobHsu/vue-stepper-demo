@@ -1,6 +1,7 @@
 # vue-stepper-demo
 
 [vue-stepper](https://www.npmjs.com/package/vue-stepper)
+PygmySlowLoris / [vue-stepper](https://github.com/PygmySlowLoris/vue-stepper)
 
 ## Project setup
 ```

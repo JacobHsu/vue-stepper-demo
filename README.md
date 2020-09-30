@@ -1,5 +1,7 @@
 # vue-stepper-demo
 
+[vue-stepper](https://www.npmjs.com/package/vue-stepper)
+
 ## Project setup
 ```
 yarn install
